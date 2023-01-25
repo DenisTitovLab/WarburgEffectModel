@@ -1,0 +1,15 @@
+,variable,value,estimate,organism
+0,bartolomeo_2020_EtOHRepl1,0.17275895392049861,respiration,yeast
+1,bartolomeo_2020_EtOHRepl2,0.17149264234651504,respiration,yeast
+2,bartolomeo_2020_EtOHRepl3,0.17062340727039885,respiration,yeast
+3,kito_2016_gly_1,0.19314588095600072,respiration,yeast
+4,kito_2016_gly_2,0.20127710102423152,respiration,yeast
+5,kito_2016_gly_3,0.19384673438308495,respiration,yeast
+6,morgenstein_2017_GlyRep1,0.2596822609574915,respiration,yeast
+7,morgenstein_2017_GlyRep2,0.26156805455972215,respiration,yeast
+8,morgenstein_2017_GlyRep3,0.26065270378750033,respiration,yeast
+9,paulo_acetate,0.271724973600535,respiration,yeast
+10,paulo_glycerol,0.20954220085625952,respiration,yeast
+11,paulo_lactate,0.20162113168720558,respiration,yeast
+12,paulo_oleate,0.2195834028478378,respiration,yeast
+13,paulo_pryuvate,0.20147225726062923,respiration,yeast

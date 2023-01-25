@@ -1,0 +1,59 @@
+﻿author ,title ,organism ,carbon substrate,method,additonal media notes,measurement,cell type,original value ,units ,notes on conversion ,Protein Fraction gCDW,value (mmol gprotein-1 hr-1),glucose uptake rate  (mmol gprotein-1 hr-1),pathway
+Nigam et al. 1999,"Continuous ethanol production from pineapple cannery
+waste",yeast,glucose ,aerobic batch,mixed sugars ,ethanol,S. cerevisiae,0.98,g/g/hr,assuming .44 of gcdw is protein,0.44,48.34540324,24.17270162,Fermentation
+Elbing et al. 2004,"Role of Hexose Transport in Control of Glycolytic Flux in
+Saccharomyces cerevisiae",yeast,glucose ,aerobic batch,complete minimal medium,ethanol,S. cerevisiae,21.3,mmol / gCDW / h,assuming .44 of gcdw is protein,0.44,48.40909091,24.20454545,Fermentation
+Boles et al. 1996,"Cloning of a second gene encoding 6-phosphofructo-2- kinase in yeast, and characterization of mutant strains without fructose-2,6-bisphosphate",yeast,glucose ,aerobic batch,YEP 2% glucose,ethanol,S. cerevisiae,12.81,mM per hour per OD600,0.62 gDCW/L,0.44,46.95747801,23.478739,Fermentation
+Postmus et al. 2008,"Quantitative Analysis of the High Temperature-induced
+Glycolytic Flux Increase in Saccharomyces cerevisiae Reveals
+Dominant Metabolic Regulation",yeast,glucose,aerobic chemostat,at 38C,ethanol,S. cerevisiae,16.2,mmol / gCDW / hr,assuming .44 of gcdw is protein,0.44,36.81818182,18.40909091,Fermentation
+Tai et al. 2006,"Control of the Glycolytic Flux in Saccharomyces cerevisiae
+Grown at Low Temperature",yeast,glucose,aerobic --> anerobic,"defined synthetic
+medium that was limited by glucose with all other growth
+requirements in excess",ethanol,S. cerevisiae,19.3,mmol / gCDW / hr,assuming .44 of gcdw is protein,0.44,43.86363636,21.93181818,Fermentation
+Jansen et al. 2006,"Prolonged selection in aerobic, glucose-limited
+chemostat cultures of Saccharomyces cerevisiae
+causes a partial loss of glycolytic capacity",yeast,glucose,aerobic --> anerobic,Synthetic medium containing mineral salts and vitamins,ethanol,S. cerevisiae,24.7,mmol / gCDW / hr,assuming .44 of gcdw is protein,0.44,56.13636364,28.06818182,Fermentation
+van den Brink et al. 2008,"Dynamics of Glycolytic Regulation during Adaptation of
+Saccharomyces cerevisiae to Fermentative Metabolism",yeast,glucose,aerobic --> anerobic,"synthetic medium with 20 g
+of glucose per liter",ethanol,S. cerevisiae,19.6,mmol / gCDW / hr,assuming .44 of gcdw is protein,0.44,44.54545455,22.27272727,Fermentation
+Solis-Escalante et al. 2015,"A Minimal Set of Glycolytic Genes Reveals Strong Redundancies in
+Saccharomyces cerevisiae Central Metabolism",yeast,glucose ,aerobic batch,SMG,ethanol,S. cerevisiae,23.8,mmol / gCDW / hr,assuming .44 of gcdw is protein,0.44,54.09090909,27.04545455,Fermentation
+Rossell et al. 2007 ,"Mixed and diverse metabolic and gene-expression regulation
+of the glycolytic and fermentative pathways in response to aHXK2
+deletion inSaccharomyces cerevisiae",yeast,glucose ,aerobic --> anerobic,"defined mineral medium containing 101 mM glucose (Verduyn et al., 1992) kept at pH 5.0 by automatic addition of
+KOH",ethanol,S. cerevisiae CEN.PK113-7D ,1.04,mmol min1 g1 protein,,0.44,62.4,31.2,Fermentation
+van Hoek et al. 2000,"Regulation of fermentative capacity and levels of glycolytic enzymes in
+chemostat cultures of Saccharomyces cerevisiae",yeast,glucose ,aerobic batch,minimal ,ethanol,S. cerevisiae CEN.PK113-7D,21.2,mmol / gCDW / hr,assuming .44 of gcdw is protein,0.44,48.18181818,24.09090909,Fermentation
+van Hoek et al. 2000,"Regulation of fermentative capacity and levels of glycolytic enzymes in
+chemostat cultures of Saccharomyces cerevisiae",yeast,glucose ,aerobic batch,minimal ,ethanol,S. cerevisiae DS28911,25.3,mmol / gCDW / hr,assuming .44 of gcdw is protein,0.44,57.5,28.75,Fermentation
+Pham et al. 1992,Growth and energy metabolism in aerobic fed-batch cultures of Saccharomyces cerevisiae: Simulation and model verification,yeast,ethanol ,aerobic batch with nonfermentable carbon source,minimal,oxygen ,S. cerevisiae,8.25,mmol / hr /  g cdw,assuming .44 of gcdw is protein,0.44,18.75,3.125,Respiration
+Auberson et al. 1992 ,"The role of the limited respiratory capacity in the
+Saccharomyces cerevisiae whi2 mutation ",yeast,ethanol ,aerobic batch with nonfermentable carbon source,,oxygen ,S. cerevisiae,2.23,mmol / hr /  g cdw,assuming .44 of gcdw is protein,0.44,5.068181818,0.84469697,Respiration
+Hagen et al. 1999,Assessment of uncoupling activity of the human uncoupling protein 3 short form and three mutants of the uncoupling protein gene using a yeast heterologous expression system,yeast,lactate,aerobic batch with nonfermentable carbon source,3% lactate SC medium,oxygen ,S. cerevisiae,44.2,nmol O/min/108 cells,4e-12 f protein per cell and O divided by two to account for O2,NA,6.63,1.105,Respiration
+Dupont et al. 1989,Mitochondrial modifications in a single nuclear mutant of Saccharomyces,yeast,ethanol ,aerobic batch with nonfermentable carbon source,"Basal + 2% ethanol
+synthetic medium was according to Galzy and Slonimski (1957)
+except that the final phosphate concentration was 50 mM and
+ammonium sulfate was 68 raM. This medium was supplemented
+with 0.05 mg • m1-1 leucine or adenine",oxygen ,S. cerevisiae,112,nmol O/min/mg dry weight,assuming .44 of gcdw is protein,0.44,7.636363635,1.272727272,Respiration
+Dupont et al. 1989,Mitochondrial modifications in a single nuclear mutant of Saccharomyces,yeast,ethanol ,aerobic batch with nonfermentable carbon source,"Basal + 2% ethanol
+synthetic medium was according to Galzy and Slonimski (1957)
+except that the final phosphate concentration was 50 mM and
+ammonium sulfate was 68 raM. This medium was supplemented
+with 0.05 mg • m1-1 leucine or adenine",oxygen ,S. cerevisiae,169,nmol O/min/mg dry weight,assuming .44 of gcdw is protein,0.44,11.52272727,1.920454545,Respiration
+Noubhani et al. 2009,"The Trehalose Pathway Regulates Mitochondrial Respiratory Chain Content through Hexokinase 2 and cAMP in Saccharomyces cerevisiae""",yeast,ethanol ,aerobic batch with nonfermentable carbon source,"YPLac2% medium ethanol was 107mM, and CCCP was 5uM",oxygen ,S. cerevisiae,203,nmol O/min/mg dry weight,assuming .44 of gcdw is protein,0.44,13.84090909,2.306818182,Respiration
+Dejean et al. 2002,"Activation of Ras cascade increases the mitochondrial enzyme
+content of respiratory competent yeast",yeast,lactate,aerobic batch with nonfermentable carbon source,minimal,oxygen ,S. cerevisiae,200,nmol O/min/mg dry weight,assuming .44 of gcdw is protein,0.44,13.63636364,2.272727273,Respiration
+Chevtzoff et al. 2009,"Reactive Oxygen Species-mediated Regulation ofMitochondrial
+Biogenesis in the Yeast Saccharomyces cerevisiae",yeast,lactate,aerobic batch with nonfermentable carbon source,minimal,oxygen ,S. cerevisiae,151,nmol O/min/mg dry weight,assuming .44 of gcdw is protein,0.44,10.29545455,1.715909091,Respiration
+Yoboue et al. 2012,cAMP-induced Mitochondrial Compartment Biogenesis,yeast,lactate,aerobic batch with nonfermentable carbon source,minimal,oxygen ,S. cerevisiae,120,nmol O/min/mg dry weight,assuming .44 of gcdw is protein,0.44,8.181818184,1.363636364,Respiration
+Pajot et al. 1974,"Utilization by Yeast of D-Lactate and L-Lactate as Sources
+of Energy in the Presence of Antimycin A ",yeast,ethanol ,aerobic batch with nonfermentable carbon source,rich,oxygen ,S. cerevisiae,15,umol hr-1 mgprotein-1,NA,NA,15,2.5,Respiration
+Pajot et al. 1974,"Utilization by Yeast of D-Lactate and L-Lactate as Sources
+of Energy in the Presence of Antimycin A ",yeast,glycerol,aerobic batch with nonfermentable carbon source,rich,oxygen ,S. cerevisiae,10,umol hr-1 mgprotein-1,NA,NA,10,1.666666667,Respiration
+Pajot et al. 1974,"Utilization by Yeast of D-Lactate and L-Lactate as Sources
+of Energy in the Presence of Antimycin A ",yeast,pyruvate,aerobic batch with nonfermentable carbon source,rich,oxygen ,S. cerevisiae,17.5,umol hr-1 mgprotein-1,NA,NA,17.5,2.916666667,Respiration
+Pajot et al. 1974,"Utilization by Yeast of D-Lactate and L-Lactate as Sources
+of Energy in the Presence of Antimycin A ",yeast,D-lactate,aerobic batch with nonfermentable carbon source,rich,oxygen ,S. cerevisiae,13,umol hr-1 mgprotein-1,NA,NA,13,2.166666667,Respiration
+Pajot et al. 1974,"Utilization by Yeast of D-Lactate and L-Lactate as Sources
+of Energy in the Presence of Antimycin A ",yeast,L-lactate,aerobic batch with nonfermentable carbon source,rich,oxygen ,S. cerevisiae,14.5,umol hr-1 mgprotein-1,NA,NA,14.5,2.416666667,Respiration

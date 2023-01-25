@@ -1,0 +1,9 @@
+,variable,value,estimate,organism
+0,Acetate,0.17862544427078883,respiration,e. coli
+1,Fumarate,0.12341287974441627,respiration,e. coli
+2,Glycerol,0.09752616744314306,respiration,e. coli
+3,Glycerol + AA,0.09655747784852207,respiration,e. coli
+4,Pyruvate,0.15135995145890113,respiration,e. coli
+5,Stationary phase 1 day,0.059959993768761,respiration,e. coli
+6,Stationary phase 3 days,0.062395669918076394,respiration,e. coli
+7,Succinate,0.12178193918457851,respiration,e. coli
