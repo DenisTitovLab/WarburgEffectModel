@@ -17,3 +17,6 @@ Anderson et al. 1980,Are Growth Rates of Escherichia coli in Batch Cultures Limi
 Anderson et al. 1980,Are Growth Rates of Escherichia coli in Batch Cultures Limited by Respiration?,ecoli,succinate,max observed rate,minimal salt medium - carbon source was added to 2 g/liter unless otherwise,O2,E. coli B/r strain NF790,23.1,mmol / hr / g dry weight,assuming .55 gcdw is protein,42,7,Respiration
 Anderson et al. 1980,Are Growth Rates of Escherichia coli in Batch Cultures Limited by Respiration?,ecoli,fumarate,max observed rate,minimal salt medium - carbon source was added to 2 g/liter unless otherwise,O2,E. coli B/r strain NF790,17.1,mmol / hr / g dry weight,assuming .55 gcdw is protein,31.09090909,5.181818182,Respiration
 Anderson et al. 1980,Are Growth Rates of Escherichia coli in Batch Cultures Limited by Respiration?,ecoli,glycolate,max observed rate,minimal salt medium - carbon source was added to 2 g/liter unless otherwise,O2,E. coli B/r strain NF790,22.1,mmol / hr / g dry weight,assuming .55 gcdw is protein,40.18181818,6.696969697,Respiration
+Korz et al. 1995,"Simple fed-batch technique for high cell density cultivation of
+Escherichia coli",ecoli,glycerol ,batch culture ,minimal,O2,"Es
+cherichia coli TGl",0.163,g O2 g-1 hr-1,assuming .55 gcdw is protein,9.261363636,1.543560606,Respiration

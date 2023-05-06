@@ -1,11 +1,11 @@
 ,variable,value,estimate,organism
-0,42°C glucose,0.08719691547134888,fermentation,ecoli
-1,Fructose,0.10302190669286056,fermentation,ecoli
-2,Galactose ,0.07851058683575397,fermentation,ecoli
-3,Glucosamine,0.08352582057671683,fermentation,ecoli
-4,Glucose,0.08921046312429687,fermentation,ecoli
-5,LB,0.12806203595525806,fermentation,ecoli
-6,Mannose,0.08086757092708255,fermentation,ecoli
-7,Osmotic-stress glucose,0.08634849299815806,fermentation,ecoli
-8,Xylose,0.1015961444725237,fermentation,ecoli
-9,pH6 glucose,0.10337283398526816,fermentation,ecoli
+0,42°C glucose,0.09002274751728868,fermentation,ecoli
+1,Fructose,0.10698972780442988,fermentation,ecoli
+2,Galactose ,0.0816027443038824,fermentation,ecoli
+3,Glucosamine,0.08763480614661245,fermentation,ecoli
+4,Glucose,0.0924223902256597,fermentation,ecoli
+5,LB,0.13405139501007401,fermentation,ecoli
+6,Mannose,0.08447378171089004,fermentation,ecoli
+7,Osmotic-stress glucose,0.08891039776342534,fermentation,ecoli
+8,Xylose,0.10509697502033155,fermentation,ecoli
+9,pH6 glucose,0.10678998254207167,fermentation,ecoli
