@@ -1,0 +1,86 @@
+,EC number,pathway,Gene name,Accession,MW,meta_pathway,MW*Subunit_Stoich,MW*Subunit_Stoich*Pathway_Stoich,pathway_stoich
+0,1.1.1.37,tca,mdh,b3236,32337,respiration,36831.333333333336,73662.66666666667,2.0
+1,1.1.1.37,tca,mdh,b3236,14960,respiration,36831.333333333336,73662.66666666667,2.0
+2,1.1.1.37,tca,maeA,b1479,63197,respiration,36831.333333333336,73662.66666666667,2.0
+3,1.1.1.41,tca,icd,b1136,45757,respiration,35400.0,70800.0,2.0
+4,1.1.1.41,tca,icd,b1136,25043,respiration,35400.0,70800.0,2.0
+5,1.2.1.12,glycolysis,gapA,b1779,35532,fermentation,35532.0,71064.0,2.0
+6,1.2.4.1,pyruvate,aceE,b0114,99668,respiration,99668.0,199336.0,2.0
+7,1.2.4.2,tca,sucA,b0726,105062,respiration,105062.0,210124.0,2.0
+8,1.3.5.1,tca,sdhD,b0722,12868,respiration,118359.0,236718.0,2.0
+9,1.3.5.1,tca,sdhC,b0721,14299,respiration,118359.0,236718.0,2.0
+10,1.3.5.1,tca,sdhB,b0724,26770,respiration,118359.0,236718.0,2.0
+11,1.3.5.1,tca,sdhA,b0723,64422,respiration,118359.0,236718.0,2.0
+12,1.6.5.9,etc,ndh,b1109,47359,respiration,47359.0,94718.0,2.0
+13,1.8.1.4,pyruvate,lpdA,,50688,respiration,50688.0,101376.0,2.0
+14,1.8.1.4,tca,lpdA,,50688,respiration,50688.0,101376.0,2.0
+15,2.3.1.12,pyruvate,aceF,b0115,66096,respiration,66096.0,132192.0,2.0
+16,2.3.3.16,tca,gltA,b0720,48015,respiration,48015.0,96030.0,2.0
+17,2.7.1.1,glycolysis,galP,b2943,50983,fermentation,42853.0,85706.0,2.0
+18,2.7.1.1,glycolysis,glk,b2388,34723,fermentation,42853.0,85706.0,2.0
+19,2.7.1.11,glycolysis,pfkA,b3916,34842,fermentation,33649.0,33649.0,1.0
+20,2.7.1.11,glycolysis,pfkB,b1723,32456,fermentation,33649.0,33649.0,1.0
+21,2.7.1.40,glycolysis,pykF,b1676,50729,fermentation,51043.0,102086.0,2.0
+22,2.7.1.40,glycolysis,pykA,b1854,51357,fermentation,51043.0,102086.0,2.0
+23,2.7.2.3,glycolysis,pgk,b2926,41118,fermentation,41118.0,82236.0,2.0
+24,4.1.2.13,glycolysis,fbaB,b2097,38109,fermentation,38628.0,77256.0,2.0
+25,4.1.2.13,glycolysis,fbaA,b2925,39147,fermentation,38628.0,77256.0,2.0
+26,4.2.1.11,glycolysis,eno,b2779,45655,fermentation,45655.0,91310.0,2.0
+27,4.2.1.3,tca,acnB,b0118,93498,respiration,95587.5,191175.0,2.0
+28,4.2.1.3,tca,acnA,b1276,97677,respiration,95587.5,191175.0,2.0
+29,5.3.1.1,glycolysis,tpiA,b3919,26972,fermentation,26972.0,53944.0,2.0
+30,5.3.1.17,glycolysis,kduI,b2843,31076,fermentation,31076.0,31076.0,1.0
+31,5.3.1.9,glycolysis,pgi,b4025,61530,fermentation,61530.0,61530.0,1.0
+32,5.4.2.11,glycolysis,gpmA,b0755,28556,fermentation,28556.0,57112.0,2.0
+33,6.2.1.5,tca,sucD,b0729,29777,respiration,71170.0,142340.0,2.0
+34,6.2.1.5,tca,sucC,b0728,41393,respiration,71170.0,142340.0,2.0
+35,7.1.1.2,etc,nuoA,b2288,16457,respiration,540414.0,5404140.0,10.0
+36,7.1.1.2,etc,nuoH,b2282,36219,respiration,540414.0,5404140.0,10.0
+37,7.1.1.2,etc,nuoJ,b2280,19875,respiration,540414.0,5404140.0,10.0
+38,7.1.1.2,etc,nuoK,b2279,10845,respiration,540414.0,5404140.0,10.0
+39,7.1.1.2,etc,nuoL,b2278,66438,respiration,540414.0,5404140.0,10.0
+40,7.1.1.2,etc,nuoM,b2277,56525,respiration,540414.0,5404140.0,10.0
+41,7.1.1.2,etc,nuoN,b2276,52044,respiration,540414.0,5404140.0,10.0
+42,7.1.1.2,etc,nuoI,b2281,20538,respiration,540414.0,5404140.0,10.0
+43,7.1.1.2,etc,nuoG,b2283,100299,respiration,540414.0,5404140.0,10.0
+44,7.1.1.2,etc,nuoF,b2284,49292,respiration,540414.0,5404140.0,10.0
+45,7.1.1.2,etc,nuoE,b2285,18590,respiration,540414.0,5404140.0,10.0
+46,7.1.1.2,etc,nuoC,b2286,68236,respiration,540414.0,5404140.0,10.0
+47,7.1.1.2,etc,nuoB,b2287,25056,respiration,540414.0,5404140.0,10.0
+48,7.1.1.3,etc,cyoD,b0429,12029,respiration,143931.0,863586.0,6.0
+49,7.1.1.3,etc,cyoA,b0432,34911,respiration,143931.0,863586.0,6.0
+50,7.1.1.3,etc,cyoB,b0431,74368,respiration,143931.0,863586.0,6.0
+51,7.1.1.3,etc,cyoC,b0430,22623,respiration,143931.0,863586.0,6.0
+52,7.1.1.7.1,etc,cydA,b0733,58205,respiration,104700.0,628200.0,6.0
+53,7.1.1.7.1,etc,cydB,b0734,42453,respiration,104700.0,628200.0,6.0
+54,7.1.1.7.1,etc,cydX,b4515,4042,respiration,104700.0,628200.0,6.0
+55,7.1.1.7.2,etc,appC,b0978,57920,respiration,100344.0,602064.0,6.0
+56,7.1.1.7.2,etc,appB,b0979,42424,respiration,100344.0,602064.0,6.0
+57,7.1.2.2,atp,atpB,b3738,30303,respiration,530009.0,4664079.2,8.8
+58,7.1.2.2,atp,atpF,b3736,17264,respiration,530009.0,4664079.2,8.8
+59,7.1.2.2,atp,atpE,b3737,8256,respiration,530009.0,4664079.2,8.8
+60,7.1.2.2,atp,atpD,b3732,50325,respiration,530009.0,4664079.2,8.8
+61,7.1.2.2,atp,atpG,b3733,31577,respiration,530009.0,4664079.2,8.8
+62,7.1.2.2,atp,atpA,b3734,55222,respiration,530009.0,4664079.2,8.8
+63,7.1.2.2,atp,atpH,b3735,19332,respiration,530009.0,4664079.2,8.8
+64,7.1.2.2,atp,atpC,b3731,15068,respiration,530009.0,4664079.2,8.8
+65,4.1.3.1,tca,aceA,b4015,47522,respiration,47522.0,95044.0,2.0
+66,2.3.3.9,tca,aceB,b4014,60274,respiration,70381.5,140763.0,2.0
+67,2.3.3.9,tca,glcB,b2976,80489,respiration,70381.5,140763.0,2.0
+68,1.2.1.79,tca,gabD,b2661,51720,respiration,51720.0,103440.0,2.0
+69,4.2.1.2,tca,fumC,b1611,50489,respiration,55394.0,110788.0,2.0
+70,2.3.1.61,tca,sucB,b0727,44011,respiration,88022.0,176044.0,2.0
+71,4.1.3.42,tca,eda,b1850,22284,respiration,22284.0,44568.0,2.0
+72,4.2.1.2,tca,fumA,b1612,60299,respiration,55394.0,110788.0,2.0
+73,2.3.1.8,fermentation,pta,b2297,77172,fermentation,77172.0,154344.0,2.0
+74,2.7.2.1,fermentation,ackA,b2296,43290,fermentation,43290.0,86580.0,2.0
+75,1.2.1.104,pyruvate,aceE,b0114,99668,fermentation,216452.0,432904.0,2.0
+76,1.2.1.104,pyruvate,aceF,b0115,66096,fermentation,216452.0,432904.0,2.0
+77,1.2.1.104,pyruvate,lpdA,,50688,fermentation,216452.0,432904.0,2.0
+78,PTS enzyme,glycolysis,ompC,b2215,40368,fermentation,248904.0,248904.0,1.0
+79,PTS enzyme,glycolysis,ompC,b2215,27594,fermentation,248904.0,248904.0,1.0
+80,PTS enzyme,glycolysis,ompF,b0929,39333,fermentation,248904.0,248904.0,1.0
+81,PTS enzyme,glycolysis,ptsG,b1101,50677,fermentation,248904.0,248904.0,1.0
+82,PTS enzyme,glycolysis,ptsI,b2416,63562,fermentation,248904.0,248904.0,1.0
+83,PTS enzyme,glycolysis,ptsH,b2415,9119,fermentation,248904.0,248904.0,1.0
+84,PTS enzyme,glycolysis,crr,b2417,18251,fermentation,248904.0,248904.0,1.0

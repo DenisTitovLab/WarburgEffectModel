@@ -1,0 +1,15 @@
+,variable,value,dataset_number,year,publication,estimate,organism
+0,bartolomeo_2020_EtOH_1,0.17090249241014333,7093,349460,0.0,respiration,yeast
+1,bartolomeo_2020_EtOH_2,0.1688360129451315,7266,349460,0.0,respiration,yeast
+2,bartolomeo_2020_EtOH_3,0.1680426090558269,7439,349460,0.0,respiration,yeast
+3,kito_2016_gly_1,0.10916295860145166,9515,348768,0.0,respiration,yeast
+4,kito_2016_gly_2,0.11671813404079234,9688,348768,0.0,respiration,yeast
+5,kito_2016_gly_3,0.11696834887896601,10034,348768,0.0,respiration,yeast
+6,morgenstein_2017_Gly_1,0.21598994906279553,8650,348941,0.0,respiration,yeast
+7,morgenstein_2017_Gly_2,0.22335057657411492,8823,348941,0.0,respiration,yeast
+8,morgenstein_2017_Gly_3,0.21732379312179864,8996,348941,0.0,respiration,yeast
+9,paulo_2016_acetate_1,0.1495141469430207,11418,348768,0.0,respiration,yeast
+10,paulo_2016_glycerol_1,0.10689177108436941,11764,348768,0.0,respiration,yeast
+11,paulo_2016_lactate_1,0.10376262892822585,11245,348768,0.0,respiration,yeast
+12,paulo_2016_oleate_1,0.1204061916325433,10553,348768,0.0,respiration,yeast
+13,paulo_2016_pryuvate_1,0.0986226556114762,11591,348768,0.0,respiration,yeast
