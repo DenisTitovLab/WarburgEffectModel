@@ -1,7 +1,0 @@
-,variable,value,dataset_number,year,publication,estimate,organism
-0,schmidt_2016_acetate_1,0.15446334957623184,784.0,112896.0,0.0,respiration,ecoli
-1,schmidt_2016_fumarate_1,0.11002404961875835,840.0,112896.0,0.0,respiration,ecoli
-2,schmidt_2016_glycerol_+_aa_1,0.08514671379575592,728.0,112896.0,0.0,respiration,ecoli
-3,schmidt_2016_glycerol_1,0.0862504729288454,952.0,112896.0,0.0,respiration,ecoli
-4,schmidt_2016_pyruvate_1,0.12809492255788754,1008.0,112896.0,0.0,respiration,ecoli
-5,schmidt_2016_succinate_1,0.10821970630063962,1736.0,112896.0,0.0,respiration,ecoli
