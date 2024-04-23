@@ -13,9 +13,8 @@ To run the Jupyter Notebook, you need to install JupyterLab or Jupyter Notebook.
 
 **Installation instructions:** 
 
-Clone the repository: ‘git clone https://github.com/DenisTitovLab/WarburgEffectModel.git’
+Clone the repository: `git clone https://github.com/DenisTitovLab/WarburgEffectModel.git`
 
-**Instructions for use: **
+**Instructions for use:**
 
 The Jupyter notebooks contain the complete set of code and datasets to reproduce the figures presented in the manuscript. The expected run time for all notebooks in sequence is less than one hour of local computational time.  
-![image](https://github.com/DenisTitovLab/WarburgEffectModel/assets/29959207/d92f9093-b2a8-43bd-a751-d2bf882b0309)
