@@ -17,4 +17,5 @@ Clone the repository: `git clone https://github.com/DenisTitovLab/WarburgEffectM
 
 **Instructions for use:**
 
-The Jupyter notebooks contain the complete set of code and datasets to reproduce the figures presented in the manuscript. The expected run time for all notebooks in sequence is less than one hour of local computational time.  
+This repository contains the complete set of code to reproduce the figures presented in the manuscript. Each Jupyter notebook is named by the figure(s) it generates and contain all necessary Python packages and paths to the required datasets stored in the Data directory. The expected total compute time to run all notebooks is under one hour. 
+
